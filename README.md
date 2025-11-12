@@ -26,4 +26,5 @@ A lightweight Python tool using **Scapy** to perform automated **pre-ATT&CK reco
 
 ---
 ## Example Output 
-![Port Scanner JSON Output](Outcome.png)
+![Scan Output](./Output.png)
+
